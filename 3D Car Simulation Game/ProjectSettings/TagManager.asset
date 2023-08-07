@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stop
+  - Marcador
+  - Barrier
+  - Lighting
+  - SceneryCommon
+  - CamSettings
+  - GameElements
+  - Hurdle
+  - FinishPoint
+  - Fire
+  - bgmusic
+  - LeftIndicator
+  - RightIndicator
+  - parkinglane
+  - steepahead
+  - steepbelow
+  - slow
+  - carwash
+  - noparking
+  - busstop
+  - atwork
+  - parkingzone
+  - dangerzone
+  - nophone
+  - nosmoking
+  - speedlimit
+  - trafficlight
+  - hospital
+  - uturn
+  - pedestrianwalk
+  - lanediscipline
+  - nohorn
+  - noentry
+  - noovertake
+  - nouturn
+  - fourwayroad
+  - nocycle
+  - petrolpump
+  - rightleftroad
+  - straightrightroad
+  - twowayroad
+  - stop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
